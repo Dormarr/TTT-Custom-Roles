@@ -1,6 +1,6 @@
 UnlitGeneric
 {
-	$basetexture "vgui/ttt/roles/bmr/Icon_Boomer"
+	$basetexture "vgui/ttt/roles/bmr/icon_bmr"
 	"$vertexcolor" 1
 	"$vertexalpha" 1
 	"$translucent" 1
